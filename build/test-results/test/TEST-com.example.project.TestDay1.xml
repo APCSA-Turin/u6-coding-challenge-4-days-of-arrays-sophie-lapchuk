@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.project.TestDay1" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-12-20T02:56:18" hostname="codespaces-5b1110" time="0.074">
+<testsuite name="com.example.project.TestDay1" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-01-08T14:57:52" hostname="codespaces-5b1110" time="0.351">
   <properties/>
-  <testcase name="testGenerateElfNameHasValidSuffix()" classname="com.example.project.TestDay1" time="0.058"/>
-  <testcase name="testGenerateElfNameThrowsExceptionForEmptyName()" classname="com.example.project.TestDay1" time="0.003"/>
-  <testcase name="testGenerateElfNameContainsName()" classname="com.example.project.TestDay1" time="0.005"/>
+  <testcase name="testGenerateElfNameHasValidSuffix()" classname="com.example.project.TestDay1" time="0.256"/>
+  <testcase name="testGenerateElfNameThrowsExceptionForEmptyName()" classname="com.example.project.TestDay1" time="0.044"/>
+  <testcase name="testGenerateElfNameContainsName()" classname="com.example.project.TestDay1" time="0.008"/>
   <system-out><![CDATA[Please enter your name: Please enter your name: Please enter your name: ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
